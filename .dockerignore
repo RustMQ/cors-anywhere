@@ -1,0 +1,7 @@
+.git
+test
+.eslintrc
+.eslintignore
+.gitignore
+.travis.yml
+Procfile
